@@ -2636,7 +2636,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common/http */ "tk/3");
 
 
-const URL = 'http://localhost:80/account/';
+const URL = 'account/';
 class AccountService {
     constructor(http) {
         this.http = http;
